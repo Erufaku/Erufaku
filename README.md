@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @erufaku
-- 👀 I’m interested in midwest emo
 - 🌱 I’m currently learning C, C++, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: inst: @erufaku
